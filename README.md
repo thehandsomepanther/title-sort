@@ -2,6 +2,11 @@
 
 Sort strings as if they were titles. Specifically, this means the words "The", "A", and "An" as well as any non-alphanumeric characters at the beginning are ignored.
 
+## install
+```
+npm install --save title-sort
+```
+
 ## use
 ```javascript
 let titleSort = require('title-sort')

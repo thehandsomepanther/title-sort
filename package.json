@@ -1,0 +1,15 @@
+{
+  "name": "title-sort",
+  "version": "1.0.0",
+  "description": "sort strings as if they were titles",
+  "repository": "thehandsomepanther/title-sort",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "assert": "^1.4.1"
+  }
+}
